@@ -502,9 +502,8 @@ button:hover {
     width: 100%;
   } */
   p.event-description{
-    font-size: 19px;
+    font-size: 18px;
     width: 130%;
-   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
   .content {
     padding-top: 20px; /* Ensure spacing from the header */
