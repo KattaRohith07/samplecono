@@ -496,7 +496,7 @@ button:hover {
     width: 100%;
   }
 
-  p.event-description {
+  ..college-name p.event-description {
     font-size: 30px;
     margin-top: 10%;
     width: 100%;
