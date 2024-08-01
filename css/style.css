@@ -495,7 +495,9 @@ button:hover {
     font-size: 26px;
     width: 100%;
   }
-
+header{
+  height:80vh;
+}
   /* .p.event-description {
     font-size: 30px;
     margin-top: 10%;
