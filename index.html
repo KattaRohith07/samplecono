@@ -93,8 +93,16 @@
     <p class="event-description">A NATIONAL LEVEL TECHNICAL SYMPOSIUM 
       <br> (31st August And 28th September 2024)
     </p>
+    <button id="knowMoreButton" class="neon-button">Know More</button>
   </header>
+<script>
+  document.getElementById("knowMoreButton").addEventListener("click", function() {
+  document.querySelector('.content').scrollIntoView({
+    behavior: 'smooth'
+  });
+});
 
+</script>
   <section class="content">
     <div class="container">
       <div class="left-content">
