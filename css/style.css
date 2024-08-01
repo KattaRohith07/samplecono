@@ -496,7 +496,7 @@ button:hover {
     width: 100%;
   }
 header{
-  height:50vh;
+  height:100vh;
 }
   /* .p.event-description {
     font-size: 30px;
@@ -511,11 +511,11 @@ header{
     padding-top: 20px; /* Ensure spacing from the header */
   }
 
-  .content .container {
+  /* .content .container {
     flex-direction: column;
     height: auto;
     margin-top: 20px; /* Adjust spacing from the header */
-  }
+  } */
 
   .left-content,
   .right-content {
