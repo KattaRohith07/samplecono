@@ -499,6 +499,7 @@ button:hover {
   p.event-description {
     font-size: 30px;
     margin-top: 10%;
+    width: 100%;
   }
 
   .content {
