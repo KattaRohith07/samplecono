@@ -349,16 +349,16 @@ footer {
   text-align: center;
   font-size: 24px;
 }
-@media only screen and (max-width: 1000px) {
+/* @media only screen and (max-width: 1000px) {
   .college-name h1 {
     font-size: 20px;
   }
-}
+} */
 
 
 
 
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
   .college-name h1 {
     font-size: 18px;
   }
@@ -374,7 +374,7 @@ footer {
   .left-content p {
     font-size: 18px;
   }
-}
+} */
 /* General Reset */
 html, body {
   margin: 0;
@@ -429,13 +429,13 @@ button {
 button:hover {
   background-color: #555;
 }
-@media only screen and (max-width: 1000px) {
+/* @media only screen and (max-width: 1000px) {
   .college-name h1 {
     font-size: 20px;
   }
-}
+} */
 
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
   .college-name h1 {
     font-size: 10px;
   }
@@ -466,7 +466,7 @@ button:hover {
   .std-container h2{
     font-size: 35px;
   }
-}
+} */
 
 @media only screen and (max-width: 800px) {
   .logo-top-left, .logo-top-right, .logo-top-center {
@@ -495,7 +495,7 @@ button:hover {
     font-size: 26px;
     width: 100%;
   }
-header{
+  header{
   height:100vh;
 }
   /* .p.event-description {
@@ -510,12 +510,6 @@ header{
   .content {
     padding-top: 20px; /* Ensure spacing from the header */
   }
-
-  /* .content .container {
-    flex-direction: column;
-    height: auto;
-    margin-top: 20px; /* Adjust spacing from the header */
-  } */
 
   .left-content,
   .right-content {
