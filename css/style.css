@@ -469,16 +469,14 @@ button:hover {
 }
 
 @media only screen and (max-width: 800px) {
-  .college-name{
-    margin-top: -15%;
-  }
   .logo-top-left, .logo-top-right, .logo-top-center {
     width: 100px;
     justify-content: space-evenly;
   }
 .college-name .font-a{
   margin-top: 11%;
-  font-size: 40px;
+  font-size: 35px;
+  width: 100%;
 }
   .logo-top-left {
     left: 50px;
