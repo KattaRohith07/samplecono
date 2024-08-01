@@ -614,7 +614,7 @@ button{
   }
   
   .left-content p {
-    font-size: 14px;
+    font-size:20px;
     line-height: 1.6;
     margin-bottom: 20px;
     font-family: drc;
@@ -673,15 +673,16 @@ button{
   }
   
   .right-content {
-    width: -10%;
+    width: 100%;
     display: block;
     justify-content: center;
     align-items: center;
   }
   
   .right-content img {
-    width: 200%;
+    width: 50%;
     border-radius: 20px;
+    margin-left: 50%;
   }
 }
   
