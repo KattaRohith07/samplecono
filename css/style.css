@@ -471,8 +471,13 @@ button:hover {
 @media only screen and (max-width: 800px) {
   .logo-top-left, .logo-top-right, .logo-top-center {
     width: 100px;
+    justify-content: space-evenly;
   }
-
+.college-name .font-a{
+  width: 100%;
+  font-size: 20px;
+  margin-top: 2px;
+}
   .logo-top-left {
     left: 50px;
   }
@@ -487,7 +492,8 @@ button:hover {
   }
 
   h2.event-title {
-    font-size: 40px;
+    font-size: 26px;
+    width: 100%;
   }
 
   p.event-description {
