@@ -709,6 +709,16 @@ button{
   margin-left: -15%;
 }
 
+.events .content .container .marquee-inner{
+  height: 130vh;
+}
+.events .content .container .marquee-inner .marquee-inner .img{
+  display: block;
+}
+.events .content .container  .marquee-inner .img{
+  width: 100%;
+  margin-bottom: 10%;
+}
 
 .map{
   margin-top: 10%;
