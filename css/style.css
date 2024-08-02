@@ -715,7 +715,7 @@ button{
   height: 60%;
 }
 .map .container{
-  height: 30%;
+  height: 70%;
   width: 80%;
   margin-left: 10%;
   margin-top: 15%;
@@ -724,7 +724,7 @@ button{
   margin-top: 50%;
 }
 .map iframe{
-  height: 180%;
+  height: 250%;
   margin-top: -14%;
 }
 .events .marquee-inner{
