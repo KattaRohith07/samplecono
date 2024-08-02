@@ -494,14 +494,16 @@ button:hover {
   font-size: 35px;
   width: 100%;
 }
+
   .logo-top-left {
     left: 50px;
   }
 button{
-  font-size: 10px;
+  font-size: 20px;
   padding: 10px;
   width: 60%;
-  margin-left: 10%;
+  margin-left: 8%;
+  margin-top: 10%;
 }
   .logo-top-right {
     right: 50px;
