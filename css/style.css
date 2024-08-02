@@ -714,11 +714,14 @@ button{
   margin-top: 10%;
   height: 60%;
 }
+.map .container{
+  height: 60%;
+}
 .details{
   margin-top: 50%;
 }
 .map iframe{
-  height: 90%;
+  height: 100%;
   margin-top: -14%;
 }
 .events .marquee-inner{
