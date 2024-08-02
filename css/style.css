@@ -708,7 +708,12 @@ button{
   width: 100%;
   margin-left: -15%;
 }
-
+.marquee{
+  display: block;
+  margin-top: -100%;
+  height: 10%;
+  width: 100%;
+}
 .events .content .container .marquee-inner{
   height: 130vh;
 }
@@ -716,6 +721,10 @@ button{
   display: block;
 }
 .events .content .container  .marquee-inner .img{
+  width: 100%;
+  margin-bottom: 10%;
+}
+.events .content .container  .marquee-inner img{
   width: 100%;
   margin-bottom: 10%;
 }
