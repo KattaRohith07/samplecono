@@ -727,28 +727,6 @@ button{
   height: 130%;
   margin-top: -30%;
 }
-.events .marquee-inner{
-  display: flex;
-}
-
-/* .marquee {
-  display: flex;
-  height: 400px; 
-  overflow-y: hidden;
-  position: relative;
-  direction: up;
-}
-
-.marquee-inner {
-  display: block;
-  bottom: -100%; 
-    animation: marqueeAnimation 10s linear infinite;
-} */
-
-.img {
-  display: block;
-width: 100%;
-}
 .std-container{
   width: 100%;
     height: 100vh;
