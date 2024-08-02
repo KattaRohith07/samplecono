@@ -32,7 +32,10 @@
   vertical-align: baseline;
   box-sizing: border-box;
 }
-
+.map iframe{
+  height: 100%;
+  width: 100%;
+}
 html, body {
   width: 100%;
   height: 100%;
@@ -301,7 +304,9 @@ p.event-description {
   margin-bottom: 10px;
   font-size: 40px;
 }
-
+.maps .container{
+  width: 100%;
+}
 .grid-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr); /* 3 columns */
@@ -313,7 +318,7 @@ p.event-description {
   justify-content: center;
 }
 .last .grid-container{
-  margin-left: 10%;
+  margin-left: 5%;
 }
 .std-container{
   width: 100%;
@@ -722,12 +727,13 @@ button{
 }
 .events .content .container .marquee-inner{
   height: 130vh;
+  gap: 10%;
 }
 .events .content .container .marquee-inner .marquee-inner .img{
   display: block;
 }
 .events .content .container  .marquee-inner .img{
-  width: 100%;
+  width: 80%;
   margin-bottom: 10%;
 }
 .events .content .container  .marquee-inner img{
