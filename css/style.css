@@ -725,7 +725,7 @@ button{
 }
 .map iframe{
   height: 180%;
-  margin-top: -20%;
+  margin-top: -30%;
 }
 .events .marquee-inner{
   display: flex;
