@@ -716,6 +716,7 @@ button{
 }
 .map .container{
   height: 60%;
+  width: 80%;
 }
 .details{
   margin-top: 50%;
