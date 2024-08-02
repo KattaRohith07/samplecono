@@ -749,7 +749,7 @@ button{
   display: block;
 width: 100%;
 }
-.details.content.container{
+.std-container{
   width: 100%;
     height: 100vh;
     display: block;
@@ -758,6 +758,9 @@ width: 100%;
     background-color: rgba(255, 255, 255, 0.2);
     color: #fff;
     text-align: center;
+}
+.std-container h2{
+  font-size: 16px;
 }
 }
   
